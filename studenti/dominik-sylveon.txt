@@ -1,1 +1,6 @@
 mňouká
+69c740f (HEAD -> main, origin/main, origin/HEAD) druhý commit
+28f7288 první commit
+9c96a53 formátování
+35f6131 zadání
+9c169fd Initial commit
